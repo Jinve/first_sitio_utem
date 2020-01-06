@@ -13,8 +13,16 @@ body>header> form{
     color: rgb(189, 189, 189);
 }
 
+.grande{
+    width: 400px;
+    transition: 300ms all ease;
+
+}
+
 .boton:hover{
-    color: cornflowerblue;
+    color:whitesmoke;
+    background: cornflowerblue;
+    transition: 200ms all ease;
 }
 
 .Logo
